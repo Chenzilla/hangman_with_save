@@ -1,0 +1,5 @@
+---
+:word: trecento
+:blanks: '_ _ _ _ _ _ _ _ '
+:guesses: 1
+:guessed_letters: []
