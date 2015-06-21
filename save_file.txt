@@ -1,5 +1,7 @@
 ---
-:word: trecento
-:blanks: '_ _ _ _ _ _ _ _ '
-:guesses: 1
-:guessed_letters: []
+:word: onanist
+:blanks: _ _ a _ _ _ _
+:guesses: 4
+:guessed_letters:
+- a
+- e
